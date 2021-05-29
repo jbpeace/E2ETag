@@ -3,7 +3,7 @@ E2ETag: An End-to-End Trainable Method for Generating and Detecting Fiducial Mar
 Link to our paper: https://www.bmvc2020-conference.com/assets/papers/0890.pdf <br/>
 
 ## Description
-E2ETag proposes an end-to-end trainable method for designing, detecting, and enabling fiducial markers with deep learning.  Our method is made possible by introducing back-propagatable marker augmentation and superimposition into training.  The detector used was a modified DeepLabV3+ encoder which predicts marker's localization, pose, and class.  The images used for superimposition training were from the ImageNet dataset.  Results demonstrate that our method outperforms existing fiducial markers in ideal conditions and especially in the presence of motion blur, contrast fluctuations, noise, and off-axis viewing angles. <br/>
+E2ETag proposes an end-to-end trainable method for designing, detecting, and enabling fiducial markers with deep learning.  Our method is made possible by introducing back-propagatable marker augmentation and superimposition into training.  The detector used was a modified DeepLabV3+ encoder which predicts marker's localization, projective pose, and class.  The images used for superimposition training were from the ImageNet dataset.  Results demonstrate that our method outperforms existing fiducial markers in ideal conditions and especially in the presence of motion blur, contrast fluctuations, noise, and off-axis viewing angles. <br/>
 
 ## Trained Markers (30 Classes)
 <img src='tags/marker01.png' /> <img src='tags/marker02.png' /> <img src='tags/marker03.png' /> <img src='tags/marker04.png' /> <img src='tags/marker05.png' /> </br>
