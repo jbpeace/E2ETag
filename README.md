@@ -7,12 +7,9 @@ E2ETag proposes an end-to-end trainable method for designing, detecting, and ena
 ## Citation
 If you find our work useful in your research, please consider citing:
 
-  @article{peace2020e2etag,
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={E2ETag: An End-to-End Trainable Method for Generating and Detecting Fiducial Markers},
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={J. Brennan Peace and Eric Psota and Yanfeng Liu and Lance C. Pérez},
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={The 31st British Machine Vision Conference (BMVC)},
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2020}
-  }
-
-
-Citation: <br/>
+	@article{peace2020e2etag,
+	  title={E2ETag: An End-to-End Trainable Method for Generating and Detecting Fiducial Markers},
+	  author={J. Brennan Peace and Eric Psota and Yanfeng Liu and Lance C. Pérez},
+	  journal={The 31st British Machine Vision Conference (BMVC)},
+	  year={2020}
+	}
